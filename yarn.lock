@@ -1238,10 +1238,10 @@
     raptor-logging "^1.1.3"
     raptor-util "^1.1.2"
 
-"@marko-tags/subscribe@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.npmjs.org/@marko-tags/subscribe/-/subscribe-0.2.0.tgz#f28f3dd96b296d429bb3ae0216275409c9413fee"
-  integrity sha512-BpDirnF+oIm//bFujRFFqwb62yR5nALNvuvnk8uGNSki53CAIgOJfExYKMiSxg90rCNkrxd8gKqn0UamvQvDRA==
+"@marko-tags/subscribe@^0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@marko-tags/subscribe/-/subscribe-0.3.2.tgz#6568943648801b176d9a24fec4fae3847973a3c9"
+  integrity sha512-IAZnX0fVKKwf0tAlE4YzERbCGoCER57H+8n/jBhAM0fJO/g9JNKtM4vtSuWNG25l8bOjfwmfuCI4Rd3egzwFAg==
 
 "@marko/build@^1.3.0", "@marko/build@^1.5.1":
   version "1.5.1"

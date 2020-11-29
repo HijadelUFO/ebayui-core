@@ -11425,10 +11425,10 @@ makeup-roving-tabindex@~0.3.7:
     makeup-navigation-emitter "~0.3.7"
     nodelist-foreach-polyfill "^1"
 
-makeup-screenreader-trap@~0.1.4:
-  version "0.1.4"
-  resolved "https://registry.npmjs.org/makeup-screenreader-trap/-/makeup-screenreader-trap-0.1.4.tgz#0b9a08850e1e8874a93df0c22084d3bb99031e67"
-  integrity sha512-Gz/YLU+9oNGZ0DmY+LlzzcD9NGYRbuf6qj3bIoqYb4k66j65Pu4LooUF7yDazyaRqzcD4S85tcfzy7X9idpS1g==
+makeup-screenreader-trap@~0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/makeup-screenreader-trap/-/makeup-screenreader-trap-0.2.1.tgz#5eb0af784d122b404536c9862ba1b041ed6db6aa"
+  integrity sha512-RP++n1xxFzj/0clfqs4GIs+DtJHeusBreHlD3bfLSk6d23TH704IIn02Th1BS5N9aUfEq9fGdyKtSWpxHwGpsQ==
   dependencies:
     custom-event "^1"
 
